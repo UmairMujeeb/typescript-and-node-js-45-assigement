@@ -1,0 +1,12 @@
+{
+  "name": "Typescript and Node js assigement-1-to-45",
+  "version": "1.0.0",
+  "description": "",
+  "main": "in this typescript file we solve all 45 assigement of govorner initiative program",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Umair Mujeeb (00487655)",
+  "license": "ISC"
+}
